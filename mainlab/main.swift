@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+var year = 365
+var days = 24
+var hour = 60
 
+var total = hour * days * year
+
+print(
