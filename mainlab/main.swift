@@ -12,5 +12,4 @@ var days = 24
 var hour = 60
 
 var total = hour * days * year
-
-print(
+ print(total)
